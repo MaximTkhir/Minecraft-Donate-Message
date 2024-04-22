@@ -1,0 +1,4 @@
+name: BoostyMessageMinecraft
+version: '1.0-SNAPSHOTBoostyMessage'
+main: me.prostomax.boostymessageminecraft.BoostyMessageMinecraft
+api-version: '1.20'
